@@ -1,3 +1,4 @@
-# My Awesome API
+# 说明
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是关于 PS 使用积累，主要涉及web方面
+
