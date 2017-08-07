@@ -1,0 +1,26 @@
+# 知识：
+
+1 简单工具操作
+
+2 图层原理及其操作
+
+3 参考线及其辅助
+
+---
+
+## 简单工具操作
+
+A 移动![](/assets/slice-basic-gj01.png)：移动的单位为像素
+
+B 选区![](/assets/slice-basic-gj02.png)：选中的部分
+
+C 按住Shift  + 工具快捷键，轮流切换当前组内的工具图标
+
+D 切片工具和切片选择工具![](/assets/slice-basic-03.png)
+
+E 抓手工具![](/assets/slice-basic-zsgj01.png)：快速放大和缩小 ???
+
+> cc版本之前 Z + Space
+
+
+
