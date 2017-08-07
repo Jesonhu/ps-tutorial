@@ -4,9 +4,11 @@
 
 * [My Awesome API](README.md)
 
-## Methods
+## 使用
 
-* [Defining Methods](methods.md)
+*  切图
+
+
 
 
 
