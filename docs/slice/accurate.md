@@ -20,5 +20,7 @@
 
 ## 智能切图使用
 
+文件》脚本》将图层导出到文件
 
+![](/assets/slice-accurate-xs01.png)
 
